@@ -1,8 +1,26 @@
 aid: trunk-tools
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/trunk-tools.png
 name: Trunk Tools
-description: Trunk Tools is a company surfaced as a portfolio company of insight-partners, redpoint-ventures
-  and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the
-  enrichment pipeline.
+description: Trunk Tools is a construction-technology company building an AI/ML platform that helps
+  general contractors, specialty contractors, and owners make sense of project data buried in
+  documents and automate repetitive, time-intensive workflows. Founded in 2021 with offices in New
+  York, Austin, and Santa Barbara, its products include TrunkText (instant answers from project
+  documents via a construction AI agent), TrunkSubmittal and an auto-generated Submittal Register,
+  TrunkReview (drawing-revision change detection), TrunkRFI, and TrunkBid. The platform ingests
+  structured and unstructured construction data (PDF, XER, MPP, CSV) and connects to major project
+  and document management systems such as Procore, Autodesk, CMiC, SharePoint, Box, Dropbox, and
+  Egnyte. Backed by Insight Partners and Redpoint Ventures.
 url: https://raw.githubusercontent.com/api-evangelist/trunk-tools/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,9 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Construction
+- Construction Technology
+- Artificial Intelligence
+- Machine Learning
+- Document Intelligence
+- Workflow Automation
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +50,24 @@ maintainers:
 common:
 - type: Website
   url: https://trunktools.com/
+- type: Product
+  url: https://trunktools.com/product/
+- type: Blog
+  url: https://trunktools.com/blog
+- type: GitHubOrganization
+  url: https://github.com/trunk-tools
+- type: TrustCenter
+  url: https://trust.trunktools.com
+- type: PrivacyPolicy
+  url: https://assets.trunk.tools/consent/privacy-policy/2025-11-06/privacy-policy.pdf
+- type: Support
+  url: mailto:support@trunk.tools
+- type: LLMsTxt
+  url: llms/trunk-tools-llms.txt
+- type: DomainSecurity
+  url: security/trunk-tools-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
