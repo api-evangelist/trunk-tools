@@ -48,9 +48,9 @@ tags:
 - Construction
 - Construction Technology
 - Artificial Intelligence
-- Machine-Learning
+- Machine Learning
 - Document Intelligence
-- Workflow-Automation
+- Workflow Automation
 - Software-as-a-Service
 tags_raw:
 - Company
@@ -61,6 +61,8 @@ tags_raw:
 - Document Intelligence
 - Workflow Automation
 - SaaS
+- Machine-Learning
+- Workflow-Automation
 apis: []
 maintainers:
 - FN: Kin Lane
