@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Trunk Tools is a company surfaced as a portfolio company of insight-partners, redpoint-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Trunk Tools is a construction-technology company building an AI/ML platform that helps general contractors, specialty contractors, and owners make sense of project data buried in documents and automate repetitive, time-intensive workflows. Founded in 2021 with offices in New York, Austin, and Santa Barbara, its products include TrunkText (instant answers from project documents via a construction AI agent), TrunkSubmittal and an auto-generated Submittal Register, TrunkReview (drawing-revision change detection), TrunkRFI, and TrunkBid. The platform ingests structured and unstructured construction data (PDF, XER, MPP, CSV) and connects to major project and document management systems such as Procore, Autodesk, CMiC, SharePoint, Box, Dropbox, and Egnyte. Backed by Insight Partners and Redpoint Ventures.
 
-Backed by: insight-partners, redpoint-ventures — https://trunktools.com/
+**Areas:** Company · Construction · Construction Technology · Artificial Intelligence · Machine Learning · Document Intelligence · Workflow Automation · Software-as-a-Service
+
+## Trunk Tools on APIs.io
+
+Everything profiled for Trunk Tools is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/trunk-tools/](https://apis.io/providers/trunk-tools/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Trunk Tools Domain Security](https://apis.io/security/trunk-tools/trunk-tools-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://trunktools.com/)
+- [Blog](https://trunktools.com/blog)
+- [Trust centre](https://trust.trunktools.com)
+- [Privacy policy](https://assets.trunk.tools/consent/privacy-policy/2025-11-06/privacy-policy.pdf)
+- [GitHub](https://github.com/trunk-tools)
+
+## API Evangelist rating
+
+**Kin Score 10.8** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 18.4 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/trunk-tools/](https://apis.io/providers/trunk-tools/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Trunk Tools: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/trunk-tools/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
